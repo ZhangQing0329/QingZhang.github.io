@@ -1,12 +1,9 @@
 # **Qing Zhang 张晴** 
 
-School of Computer Science and Information Engineering
-
-Shanghai Institute of Technology
-
-Shanghai, China
-
-Email： zhangqing0329@gmail.com
+School of Computer Science and Information Engineering  
+Shanghai Institute of Technology  
+Shanghai, China  
+Email： zhangqing0329@gmail.com  
 
 
 ## **<font color="#8B008B">Education</font>**
@@ -18,11 +15,11 @@ Email： zhangqing0329@gmail.com
 ## **<font color="#8B008B">Research Interests</font>**
 Saliency Detection, Image Object Segmentation, Computer Vision
 
-#
-# **<font color="#8B008B">Selected Papers</font>**
-## TCRNet: a trifurcated cascaded refinement network for salient object detection
-## **Qing Zhang***, Rui Zhao, Liqian Zhang 
-## IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 298-311
+
+## **<font color="#8B008B">Selected Papers</font>**
+TCRNet: a trifurcated cascaded refinement network for salient object detection  
+**Qing Zhang***, Rui Zhao, Liqian Zhang  
+IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 298-311
 ## [\[PDF\]](https://ieeexplore.ieee.org/document/9861608/)
 
 # 
