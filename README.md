@@ -1,19 +1,19 @@
 # **Qing Zhang 张晴** 
 
-## School of Computer Science and Information Engineering
-## Shanghai Institute of Technology
-## Shanghai, China
-## Email： zhangqing0329@gmail.com
+School of Computer Science and Information Engineering
+Shanghai Institute of Technology
+Shanghai, China
+Email： zhangqing0329@gmail.com
 
-#
-# **<font color="#8B008B">Education</font>**
+
+## **<font color="#8B008B">Education</font>**
 2017-2015: East China University of Science and Technology, Ph.D.
 
 2013-2017: East China University of Science and Technology, Bachelor of Engineering
 
-#
-# **<font color="#8B008B">Research Interests</font>**
-## Saliency Detection, Image Object Segmentation, Computer Vision
+
+## **<font color="#8B008B">Research Interests</font>**
+Saliency Detection, Image Object Segmentation, Computer Vision
 
 #
 # **<font color="#8B008B">Selected Papers</font>**
