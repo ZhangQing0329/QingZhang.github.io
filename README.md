@@ -22,8 +22,7 @@ TCRNet: a trifurcated cascaded refinement network for salient object detection
 IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 298-311  
 [\[PDF\]](https://ieeexplore.ieee.org/document/9861608/)    
 
-  
-  
+<br/><br/>
      
 Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation  
 Jinghui Shi, **Qing Zhang***, Yuhao Tang, Zhongqun Zhang  
