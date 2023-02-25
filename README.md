@@ -32,7 +32,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 30-
 Progressive dual-attention residual network for salient object detection  
 Liqian Zhang, **Qing Zhang***, Rui Zhao  
 IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(9): 5902-5915   
-[\[PDF\]](https://ieeexplore.ieee.org/document/9745960/) 
+[\[PDF\]](https://ieeexplore.ieee.org/document/9745960/) [\[Code\]](https://github.com/ZhangQing0329/PDRNet)
 
 <br/><br/>
 Residual attentive feature learning network for salient object detection  
