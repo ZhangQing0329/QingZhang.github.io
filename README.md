@@ -1,4 +1,4 @@
-# **Qing Zhang 张晴** 
+# **Qing Zhang 张晴**   
 
 School of Computer Science and Information Engineering  
 Shanghai Institute of Technology  
@@ -19,13 +19,15 @@ Saliency Detection, Image Object Segmentation, Computer Vision
 ## **<font color="#8B008B">Selected Papers</font>**
 TCRNet: a trifurcated cascaded refinement network for salient object detection  
 **Qing Zhang***, Rui Zhao, Liqian Zhang  
-IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 298-311
-## [\[PDF\]](https://ieeexplore.ieee.org/document/9861608/)
+IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 298-311  
+[\[PDF\]](https://ieeexplore.ieee.org/document/9861608/)    
 
-# 
-## Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation
-## Jinghui Shi, **Qing Zhang***, Yuhao Tang, Zhongqun Zhang
-## IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 30-42
+  
+  
+     
+Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation  
+Jinghui Shi, **Qing Zhang***, Yuhao Tang, Zhongqun Zhang  
+IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 30-42  
 
 #  
 ## Progressive dual-attention residual network for salient object detection
