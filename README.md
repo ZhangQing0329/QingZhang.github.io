@@ -21,17 +21,18 @@ TCRNet: a trifurcated cascaded refinement network for salient object detection
 **Qing Zhang***, Rui Zhao, Liqian Zhang  
 IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 298-311  
 [\[PDF\]](https://ieeexplore.ieee.org/document/9861608/)    
-
 <br/><br/>
      
 Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation  
 Jinghui Shi, **Qing Zhang***, Yuhao Tang, Zhongqun Zhang  
-IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 30-42  
+IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 30-42   
+[\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)  
 
 <br/><br/>
 Progressive dual-attention residual network for salient object detection  
 Liqian Zhang, **Qing Zhang***, Rui Zhao  
-IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(9): 5902-5915  
+IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(9): 5902-5915   
+[\[PDF\]](https://ieeexplore.ieee.org/document/9745960/) 
 
 <br/><br/>
 Residual attentive feature learning network for salient object detection  
