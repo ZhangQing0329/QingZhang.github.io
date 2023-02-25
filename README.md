@@ -98,3 +98,11 @@ Neurocomputing, 2017, 3(21): 35-48
 Two-stage absorbing markov chain for salient object detection   
 **Qing Zhang***, Desi Luo, Wenju Li, Yanjiao Shi, Jiajun Lin    
 International Conference on Image Processing, 2017: 895-899  
+
+## **<font color="#8B008B">Selected Projects</font>**
+
+1）融合深度语义信息的复杂场景显著性检测和分割研究，上海市自然科学基金，201907—202206，主持  
+2）无约束场景中实例级显著目标检测与分割算法研究，国家自然科学基金青年项目，201901—202112，参与  
+3）视觉注意模型及其在显著目标检测中的应用研究，国家自然科学基金青年项目，201501—201712，主持  
+4）图像智能分割系统开发，企事业委托开发项目，2021—2022，主持  
+5）计算机测试数据自动分析软件开发，企事业委托开发项目，2019—2020，主持
