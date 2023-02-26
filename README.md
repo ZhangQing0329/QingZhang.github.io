@@ -7,9 +7,9 @@ Email： zhangqing0329@gmail.com
 
 
 ## **<font color="#8B008B">Education</font>**
-2017-2015: East China University of Science and Technology, Ph.D.
+2007-2012: East China University of Science and Technology, Ph.D.
 
-2013-2017: East China University of Science and Technology, Bachelor of Engineering
+2003-2007: East China University of Science and Technology, Bachelor of Engineering
 
 
 ## **<font color="#8B008B">Research Interests</font>**
