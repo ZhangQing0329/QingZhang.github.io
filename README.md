@@ -16,7 +16,12 @@ Email： zhangqing0329@gmail.com
 Saliency Detection, Image Object Segmentation, Computer Vision
 
 
-## **<font color="#8B008B">Selected Papers</font>**
+## **<font color="#8B008B">Selected Papers</font>**  
+CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection  
+**Qing Zhang***, Weiqi Yan
+IEEE International Conference on Multimedia and Expo, 2023  
+<br/><br/>
+
 TCRNet: a trifurcated cascaded refinement network for salient object detection  
 **Qing Zhang***, Rui Zhao, Liqian Zhang  
 IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 298-311  
