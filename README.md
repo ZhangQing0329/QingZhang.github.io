@@ -20,6 +20,7 @@ Saliency Detection, Image Object Segmentation, Computer Vision
 CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection  
 **Qing Zhang***, Weiqi Yan  
 IEEE International Conference on Multimedia and Expo, 2023  
+[Code](https://github.com/ZhangQing0329/CFANet)
 <br/><br/>
 
 TCRNet: a trifurcated cascaded refinement network for salient object detection  
