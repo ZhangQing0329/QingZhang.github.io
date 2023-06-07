@@ -17,6 +17,11 @@ Saliency Detection, Image Object Segmentation, Computer Vision
 
 
 ## **<font color="#8B008B">Selected Papers</font>**  
+Liqian Zhang, **Qing Zhang***  
+Salient Object Detection with Edge-guided Learning and Specific Aggregation  
+IEEE Transactions on Circuits and Systems for Video Technology, 2023.  
+<br/><br/>  
+
 CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection  
 **Qing Zhang***, Weiqi Yan  
 IEEE International Conference on Multimedia and Expo, 2023  
