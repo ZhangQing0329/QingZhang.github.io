@@ -1,6 +1,6 @@
 # **Qing Zhang 张晴**   
 
-Professor
+Professor   
 School of Computer Science and Information Engineering  
 Shanghai Institute of Technology  
 Shanghai, China  
