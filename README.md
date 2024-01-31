@@ -1,6 +1,6 @@
 # **Qing Zhang 张晴**   
 
-Professor   
+Professor     
 School of Computer Science and Information Engineering  
 Shanghai Institute of Technology  
 Shanghai, China  
@@ -21,13 +21,13 @@ Saliency Detection, Image Object Segmentation, Computer Vision
 * Salient Object Detection with Edge-guided Learning and Specific Aggregation  
 Liqian Zhang, **Qing Zhang***  
 IEEE Transactions on Circuits and Systems for Video Technology, 2023   
-[\[PDF\]](https://ieeexplore.ieee.org/document/10155248)    
+[\[PDF\]](https://ieeexplore.ieee.org/document/10155248)  [\[Code\]](https://github.com/ZhangQing0329/ELSANet)        
 <br/><br/> 
 
 * Depth cue enhancement and guidance network for RGB-D salient object detection  
 Xiang Li, **Qing Zhang***, Weiqi Yan, Meng Dai  
 Journal of Visual Communication and Image Representation, 2023  
-[\[PDF\]](https://authors.elsevier.com/sd/article/S1047-3203(23)00130-X)    
+[\[PDF\]](https://authors.elsevier.com/sd/article/S1047-3203(23)00130-X)  [\[Code\]](https://github.com/ZhangQing0329/DEGNet)       
 <br/><br/>  
 
 * CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection  
