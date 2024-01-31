@@ -20,7 +20,7 @@ Saliency Detection, Image Object Segmentation, Computer Vision
 ## **<font color="#8B008B">Selected Papers</font>**  
 * Salient Object Detection with Edge-guided Learning and Specific Aggregation  
 Liqian Zhang, **Qing Zhang***  
-IEEE Transactions on Circuits and Systems for Video Technology, 2023   
+IEEE Transactions on Circuits and Systems for Video Technology, 2024   
 [\[PDF\]](https://ieeexplore.ieee.org/document/10155248)  [\[Code\]](https://github.com/ZhangQing0329/ELSANet)        
 <br/><br/> 
 
