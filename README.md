@@ -24,6 +24,10 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2024
 [\[PDF\]](https://ieeexplore.ieee.org/document/10155248)  [\[Code\]](https://github.com/ZhangQing0329/ELSANet)        
 <br/><br/> 
 
+* Bi-directional Boundary-object Interaction and Refinement Network for Camouflaged Object Detection  
+Jicheng Yang, **Qing Zhang***, Yilin Zhao, Yuetong Li, Zeming Liu  
+IEEE International Conference on Multimedia and Expo, 2024  
+
 * Depth cue enhancement and guidance network for RGB-D salient object detection  
 Xiang Li, **Qing Zhang***, Weiqi Yan, Meng Dai  
 Journal of Visual Communication and Image Representation, 2023  
