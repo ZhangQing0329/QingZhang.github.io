@@ -20,20 +20,33 @@ Saliency Detection, Image Object Segmentation, Computer Vision
 ## **<font color="#8B008B">Selected Papers</font>**  
 * Salient Object Detection with Edge-guided Learning and Specific Aggregation  
 Liqian Zhang, **Qing Zhang***  
-IEEE Transactions on Circuits and Systems for Video Technology, 2024   
+IEEE Transactions on Circuits and Systems for Video Technology, 2024, 34(1): 534-548   
 [\[PDF\]](https://ieeexplore.ieee.org/document/10155248)  [\[Code\]](https://github.com/ZhangQing0329/ELSANet)        
-<br/><br/> 
+<br/>
 
 * Bi-directional Boundary-object Interaction and Refinement Network for Camouflaged Object Detection  
 Jicheng Yang, **Qing Zhang***, Yilin Zhao, Yuetong Li, Zeming Liu  
-IEEE International Conference on Multimedia and Expo, 2024  
-<br/><br/> 
+IEEE International Conference on Multimedia and Expo, 2024   
+[\[Code\]](https://github.com/Jcogito/BIRNet)      
+<br/>
+
+
+* BMFNet: Bifurcated Multi-Modal Fusion Network for RGB-D Salient Object Detection  
+Chenwang Sun, **Qing Zhang***, Chenyu Zhuang, Mingqian Zhang  
+Image and Vision Computing, 2024, 147: 105048  
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525)  
+<br/>  
+
+* AFINet: Camouflaged object detection via attention fusion and interaction network  
+**Qing Zhang**, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang*  
+Journal of Visual Communication and Image Representation, 2024  
+<br/>
 
 * Depth cue enhancement and guidance network for RGB-D salient object detection  
 Xiang Li, **Qing Zhang***, Weiqi Yan, Meng Dai  
-Journal of Visual Communication and Image Representation, 2023  
+Journal of Visual Communication and Image Representation, 2023, 95: 103880  
 [\[PDF\]](https://authors.elsevier.com/sd/article/S1047-3203(23)00130-X)  [\[Code\]](https://github.com/ZhangQing0329/DEGNet)       
-<br/><br/>  
+<br/> 
 
 * CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection  
 **Qing Zhang***, Weiqi Yan  
@@ -45,80 +58,80 @@ IEEE International Conference on Multimedia and Expo, 2023
 **Qing Zhang***, Rui Zhao, Liqian Zhang  
 IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 298-311  
 [\[PDF\]](https://ieeexplore.ieee.org/document/9861608/)  [\[Code\]](https://github.com/ZhangQing0329/TCRNet)   
-<br/><br/>
+<br/>
      
 * Polyp-Mixer: An Efficient Context-Aware MLP-based Paradigm for Polyp Segmentation  
 Jinghui Shi, **Qing Zhang***, Yuhao Tang, Zhongqun Zhang  
 IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(1): 30-42   
 [\[PDF\]](https://ieeexplore.ieee.org/document/9852486/)  
+<br/>
 
-<br/><br/>
 * Progressive dual-attention residual network for salient object detection  
 Liqian Zhang, **Qing Zhang***, Rui Zhao  
 IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(9): 5902-5915   
-[\[PDF\]](https://ieeexplore.ieee.org/document/9745960/) [\[Code\]](https://github.com/ZhangQing0329/PDRNet)
+[\[PDF\]](https://ieeexplore.ieee.org/document/9745960/) [\[Code\]](https://github.com/ZhangQing0329/PDRNet)  
+<br/>   
 
-<br/><br/>
+
 * Residual attentive feature learning network for salient object detection  
 **Qing Zhang***, Yanjiao Shi, Xueqin Zhang, Liqian Zhang  
-Neurocomputing, 2022, 51:741-752
-
-<br/><br/>
+Neurocomputing, 2022, 51:741-752  
+<br/>  
 * Cross-modal and multi-level feature refinement network for RGB-D salient object detection  
 Yue Gao, Meng Dai*, **Qing Zhang**  
 The Visual Computer, 2022  
+<br/>
 
-<br/><br/>
 * Global and local information aggregation network for edge-aware salient object detection  
 **Qing Zhang***, Liqian Zhang, Dong Wang, Yanjiao Shi, Jianjun Lin  
 Journal of Visual Communication and Image Representation, 2021, 81: 103350   
+<br/>
 
-<br/><br/>
 * Deep saliency detection via spatial-wise dilated convolutional attention  
 Wenzhao Cui, **Qing Zhang***, Baochuan Zuo  
 Neurocomputing, 2021, 445: 35-49  
+<br/>
 
-<br/><br/>
 * Edge-aware salient object detection network via context guidance  
 Xiaowei Chen, **Qing Zhang***, Liqian Zhang  
-Image and Vision Computing, 2021, 110: 104166  
+Image and Vision Computing, 2021, 110: 104166   
+<br/>
 
-<br/><br/>
 * Salient object detection network with multi-scale feature  refinement and boundary feedback   
 **Qing Zhang***, Xiang Li   
-Image and Vision Computing, 2021, 116: 104326
+Image and Vision Computing, 2021, 116: 104326  
+<br/>
 
-<br/><br/>
 * Attention and boundary guided salient object detection   
 **Qing Zhang***, Yanjiao Shi, Xueqin Zhang  
-Pattern Recognition, 2020, 107: 107-484
+Pattern Recognition, 2020, 107: 107-484  
+<br/>
 
-<br/><br/>
 * Attentive feature integration network for detecting salient objects in images    
 **Qing Zhang***, Wenzhao Cui, Yanjiao Shi, Xueqin Zhang    
-Neurocomputing, 2020, 411: 268-281
+Neurocomputing, 2020, 411: 268-281  
+<br/>
 
-<br/><br/>
 * Multi-level and multi-scale deep saliency network for salient object detection  
 **Qing Zhang***, Jiajun Lin, Jingjing Zhuge, Wenhao Yuan    
 Journal of Visual Communication and Image Representation, 2019, 59: 415-424  
+<br/>
 
-<br/><br/>
 * Kernel null-space-based abnormal event detection using hybrid motion information  
 Yanjiao Shi, Yugen Yi, **Qing Zhang***, Jiangyan Dai   
-Journal of Electronic Imaging, 2019, 28(2): 021011
+Journal of Electronic Imaging, 2019, 28(2): 021011  
+<br/>
 
-<br/><br/>
 * Salient object detection via compactness and objectness cues   
 **Qing Zhang***, Jiajun Lin, Wenju Li, Yanjiao Shi, Guogang Cao  
 The Visual Computer, 2018, 34(4): 473-489  
+<br/>
 
-<br/><br/>
 * Salient object detection via color and texture cues  
 **Qing Zhang***, Jiajun Lin, Yanyun Tao, Wenju Li, Yanjiao Shi    
 Neurocomputing, 2017, 3(21): 35-48  
+<br/>
 
-<br/><br/>
 * Two-stage absorbing markov chain for salient object detection   
 **Qing Zhang***, Desi Luo, Wenju Li, Yanjiao Shi, Jiajun Lin    
 International Conference on Image Processing, 2017: 895-899  
