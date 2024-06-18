@@ -144,6 +144,3 @@ International Conference on Image Processing, 2017: 895-899
 4）图像智能分割系统开发，企事业委托开发项目，2021—2022，主持  
 5）计算机测试数据自动分析软件开发，企事业委托开发项目，2019—2020，主持
 
-<script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
-    <script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
-    <span data-hk-page="current"> - </span>
