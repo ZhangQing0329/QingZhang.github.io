@@ -50,8 +50,8 @@ Journal of Visual Communication and Image Representation, 2023, 95: 103880
 
 * CFANet: A Cross-layer Feature Aggregation Network for Camouflaged Object Detection  
 **Qing Zhang***, Weiqi Yan  
-IEEE International Conference on Multimedia and Expo, 2023  
-[\[Code\]](https://github.com/ZhangQing0329/CFANet)
+IEEE International Conference on Multimedia and Expo, 2023: 2441-2446    
+[\[PDF\]](https://ieeexplore.ieee.org/document/10219858) [\[Code\]](https://github.com/ZhangQing0329/CFANet)
 <br/><br/>
 
 * TCRNet: a trifurcated cascaded refinement network for salient object detection  
@@ -143,3 +143,7 @@ International Conference on Image Processing, 2017: 895-899
 3）视觉注意模型及其在显著目标检测中的应用研究，国家自然科学基金青年项目，201501—201712，主持  
 4）图像智能分割系统开发，企事业委托开发项目，2021—2022，主持  
 5）计算机测试数据自动分析软件开发，企事业委托开发项目，2019—2020，主持
+
+<script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
+    <script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
+    <span data-hk-page="current"> - </span>
