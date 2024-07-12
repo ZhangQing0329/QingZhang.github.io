@@ -34,8 +34,7 @@ IEEE International Conference on Multimedia and Expo, 2024
 * BMFNet: Bifurcated Multi-Modal Fusion Network for RGB-D Salient Object Detection  
 Chenwang Sun, **Qing Zhang***, Chenyu Zhuang, Mingqian Zhang  
 Image and Vision Computing, 2024, 147: 105048  
-[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525)  [\[Results\]](https://github.com/ZhangQing0329/BMFNet)
-
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525)  [\[Results\]](https://github.com/ZhangQing0329/BMFNet)    
 <br/>  
 
 * AFINet: Camouflaged object detection via attention fusion and interaction network  
