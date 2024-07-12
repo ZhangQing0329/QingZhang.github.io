@@ -40,6 +40,7 @@ Image and Vision Computing, 2024, 147: 105048
 * AFINet: Camouflaged object detection via attention fusion and interaction network  
 **Qing Zhang**, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang*  
 Journal of Visual Communication and Image Representation, 2024  
+[\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S1047320324001640)  [\[Code\]](https://github.com/ZhangQing0329/AFINet)    
 <br/>
 
 * Depth cue enhancement and guidance network for RGB-D salient object detection  
