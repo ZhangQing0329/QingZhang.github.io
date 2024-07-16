@@ -30,6 +30,10 @@ IEEE International Conference on Multimedia and Expo, 2024
 [\[Code\]](https://github.com/Jcogito/BIRNet)      
 <br/>
 
+* Detecting Camouflaged Object via Cross-level Context Supplement   
+**Qing Zhang***, Weiqi Yan, Rui Zhao, Yanjiao Shi   
+Applied Intelligence, 2024   
+<br/>
 
 * BMFNet: Bifurcated Multi-Modal Fusion Network for RGB-D Salient Object Detection  
 Chenwang Sun, **Qing Zhang***, Chenyu Zhuang, Mingqian Zhang  
