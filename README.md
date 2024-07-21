@@ -32,7 +32,8 @@ IEEE International Conference on Multimedia and Expo, 2024
 
 * Detecting Camouflaged Object via Cross-level Context Supplement   
 **Qing Zhang***, Weiqi Yan, Rui Zhao, Yanjiao Shi   
-Applied Intelligence, 2024   
+Applied Intelligence, 2024 
+[\[PDF\]](https://link.springer.com/article/10.1007/s10489-024-05694-6)  [\[Results\]](https://github.com/ZhangQing0329/CCSNet)     
 <br/>
 
 * BMFNet: Bifurcated Multi-Modal Fusion Network for RGB-D Salient Object Detection  
