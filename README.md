@@ -42,6 +42,11 @@ Image and Vision Computing, 2024, 147: 105048
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525)  [\[Results\]](https://github.com/ZhangQing0329/BMFNet)    
 <br/>  
 
+* Frequency Learning Network with Dual-Guidance Calibration for Camouflaged Object Detection.   
+Yilin Zhao, **Qing Zhang***, Yuetong Li  
+Asian Conference on Computer Vision, 2024.  
+<br/>
+
 * AFINet: Camouflaged object detection via attention fusion and interaction network  
 **Qing Zhang**, Weiqi Yan, Yilin Zhao, Qi Jin, Yu Zhang*  
 Journal of Visual Communication and Image Representation, 2024  
