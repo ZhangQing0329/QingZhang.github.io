@@ -27,7 +27,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2024, 34(1): 534
 * Bi-directional Boundary-object Interaction and Refinement Network for Camouflaged Object Detection  
 Jicheng Yang, **Qing Zhang***, Yilin Zhao, Yuetong Li, Zeming Liu  
 IEEE International Conference on Multimedia and Expo, 2024   
-[\[Code\]](https://github.com/Jcogito/BIRNet)      
+[\[PDF\]](https://ieeexplore.ieee.org/document/10687766)  [\[Code\]](https://github.com/Jcogito/BIRNet)      
 <br/>
 
 * Detecting Camouflaged Object via Cross-level Context Supplement   
