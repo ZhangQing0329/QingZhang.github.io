@@ -18,7 +18,7 @@ Saliency Detection, Image Object Segmentation, Computer Vision
 
 
 ## **<font color="#8B008B">Selected Papers</font>**  
-HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation  
+* HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation  
 Zhoujie Xu, Meng Dai*, **Qing Zhang**, Xiaodi Jiang  
 Neurocomputing, 2025, 619(28): 129154  
 [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0925231224019258)   
