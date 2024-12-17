@@ -18,6 +18,12 @@ Saliency Detection, Image Object Segmentation, Computer Vision
 
 
 ## **<font color="#8B008B">Selected Papers</font>**  
+HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation  
+Zhoujie Xu, Meng Dai*, **Qing Zhang**, Xiaodi Jiang  
+Neurocomputing, 2025, 619(28): 129154  
+[\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0925231224019258)   
+<br/>
+
 * Salient Object Detection with Edge-guided Learning and Specific Aggregation  
 Liqian Zhang, **Qing Zhang***  
 IEEE Transactions on Circuits and Systems for Video Technology, 2024, 34(1): 534-548   
@@ -42,9 +48,16 @@ Image and Vision Computing, 2024, 147: 105048
 [\[PDF\]](https://www.sciencedirect.com/science/article/abs/pii/S0262885624001525)  [\[Results\]](https://github.com/ZhangQing0329/BMFNet)    
 <br/>  
 
-* Frequency Learning Network with Dual-Guidance Calibration for Camouflaged Object Detection.   
+* Frequency Learning Network with Dual-Guidance Calibration for Camouflaged Object Detection     
 Yilin Zhao, **Qing Zhang***, Yuetong Li  
-Asian Conference on Computer Vision, 2024.  
+Asian Conference on Computer Vision, 2024.   
+[\[Code\]](https://github.com/LinAyq/DCNet)  [\[PDF\]](https://openaccess.thecvf.com/content/ACCV2024/papers/Zhao_Frequency_Learning_Network_with_Dual-Guidance_Calibration_for_Camouflaged_Object_Detection_ACCV_2024_paper.pdf)   
+<br/>
+
+* Transformer-based Depth Optimization Network for RGB-D Salient Object Detection   
+Lu Li, Yanjiao Shi*, Jingyu Yang, Qiangqiang Zhou, **Qing Zhang**, Liu Cui  
+International Conference on Pattern Recognition, 2024.  
+[\[PDF\]](https://link.springer.com/chapter/10.1007/978-3-031-78305-0_28)  
 <br/>
 
 * AFINet: Camouflaged object detection via attention fusion and interaction network  
