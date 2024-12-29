@@ -17,7 +17,18 @@ Email： zhangqing0329@gmail.com
 Saliency Detection, Image Object Segmentation, Computer Vision
 
 
-## **<font color="#8B008B">Selected Papers</font>**  
+## **<font color="#8B008B">Selected Papers</font>** 
+* Rethinking Camouflaged Object Detection via Foreground-background Interactive Learning   
+Chenxi Zhang, **Qing Zhang***, Jiayun Wu  
+International Conference on Acoustics, Speech, and Signal Processing, 2025  
+[\[Code\]](https://github.com/bbdjj/FBINet)  
+<br/>
+
+* Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration  
+Yilin Zhao, **Qing Zhang***, Yuetong Li 
+International Conference on Acoustics, Speech, and Signal Processing, 2025  
+<br/> 
+
 * HRPVT: High-Resolution Pyramid Vision Transformer for Medium and Small-scale Human Pose Estimation  
 Zhoujie Xu, Meng Dai*, **Qing Zhang**, Xiaodi Jiang  
 Neurocomputing, 2025, 619(28): 129154  
