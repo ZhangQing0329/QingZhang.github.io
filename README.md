@@ -25,7 +25,7 @@ International Conference on Acoustics, Speech, and Signal Processing, 2025
 <br/>
 
 * Camouflaged Object Detection with CNN-Transformer Harmonization and Calibration  
-Yilin Zhao, **Qing Zhang***, Yuetong Li 
+Yilin Zhao, **Qing Zhang***, Yuetong Li   
 International Conference on Acoustics, Speech, and Signal Processing, 2025  
 <br/> 
 
