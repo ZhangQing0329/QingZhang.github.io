@@ -35,6 +35,11 @@ Neurocomputing, 2025, 619(28): 129154
 [\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0925231224019258)   
 <br/>
 
+* A Dual-stream Learning Framework for Weakly Supervised Salient Object Detection with Multi-strategy Integration   
+Yuyan Liu, **Qing Zhang**, Yilin Zhao, Yanjiao Shi  
+The Visual Computer, 2025.  
+<br/>
+
 * Salient Object Detection with Edge-guided Learning and Specific Aggregation  
 Liqian Zhang, **Qing Zhang***  
 IEEE Transactions on Circuits and Systems for Video Technology, 2024, 34(1): 534-548   
